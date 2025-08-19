@@ -3,7 +3,8 @@ Sou um desenvolvedor full-stack em constante evolução 🚀.
 Gosto de transformar ideias em projetos práticos enquanto aprendo novas tecnologias.
 Meu foco é aprender, colaborar e contribuir com soluções criativas e inovadoras.
 
-👉 Confira mais sobre mim no meu portfólio: omateusso.netlify.app/sobre-mim
+👉 Confira mais sobre mim no meu portfólio: <a href="https://omateusso.netlify.app" target="_blank">https://omateusso.netlify.app</a>
+
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OMateusSO&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph" />
