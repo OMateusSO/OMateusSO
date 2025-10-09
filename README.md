@@ -6,7 +6,7 @@ Meu foco é aprender, colaborar e contribuir com soluções criativas e inovador
 👉 Confira mais sobre mim no meu portfólio: <a href="https://omateusso.netlify.app" target="_blank">https://omateusso.netlify.app</a>
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OMateusSO&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="200" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OMateusSO&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2&cache_seconds=0" height="200" alt="languages graph" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OMateusSO&radius=16&theme=github-dark&area=true&order=5" height="200" alt="activity-graph graph" />
 </div>
 
